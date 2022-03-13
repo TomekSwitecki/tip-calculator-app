@@ -2,7 +2,7 @@
 
 > This is a solution to the [Tip calculator app](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).
 
-![screenshot](./design/desktop-design.jpg)
+![screenshot](./design/desktop-preview.jpg)
 
 I created it to improve my frontend skills 😃
 
